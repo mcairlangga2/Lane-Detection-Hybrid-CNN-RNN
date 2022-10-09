@@ -16,7 +16,7 @@ Below is the notebook i used to train the model and process the input video
   - [UNet-ConvLSTM](https://github.com/mcairlangga2/Lane-Detection-Hybrid-CNN-RNN/blob/main/UNet-ConvLSTM%20train.ipynb)
   - [SegNet-ConvLSTM](https://github.com/mcairlangga2/Lane-Detection-Hybrid-CNN-RNN/blob/main/SegNet-ConvLstm%20train.ipynb)
 - Video Processing :
-  - OpenCV Video Processing(https://github.com/mcairlangga2/Lane-Detection-Hybrid-CNN-RNN/blob/main/VideoProcessingLaneDetection.ipynb)
+  - [OpenCV Video Processing](https://github.com/mcairlangga2/Lane-Detection-Hybrid-CNN-RNN/blob/main/VideoProcessingLaneDetection.ipynb)
 
 ## References
 [1] Zou, Q., Jiang, H., Dai, Q., Yue, Y., Chen, L., & Wang, Q. (2019). Robust lane detection from continuous driving scenes using deep neural networks. IEEE transactions on vehicular technology, 69(1), 41-54.
