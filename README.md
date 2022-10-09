@@ -20,4 +20,5 @@ Below is the notebook i used to train the model and process the input video
 
 ## References
 [1] Zou, Q., Jiang, H., Dai, Q., Yue, Y., Chen, L., & Wang, Q. (2019). Robust lane detection from continuous driving scenes using deep neural networks. IEEE transactions on vehicular technology, 69(1), 41-54.
+
 [2] Widianto, S. C. (2020). Deteksi Lajur Mobil Otonom Pada Kondisi Gambar Terdistorsi dan Kurang Pencahayaan Menggunakan Pengolahan Citra [Undergraduate Thesis]. Institut Teknologi Sepuluh Nopember.
